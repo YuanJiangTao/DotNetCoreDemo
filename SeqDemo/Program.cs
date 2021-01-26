@@ -43,7 +43,8 @@ namespace SeqDemo
             .UseSerilog((hostBuilderContext, loggingBuilder) =>
         {
             loggingBuilder.ReadFrom.Configuration(hostBuilderContext.Configuration);
-        }).ConfigureServices(services =>
+        }).
+            ConfigureServices(services =>
         {
             services.AddHostedService<TestHostService>();
         });
