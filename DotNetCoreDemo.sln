@@ -15,6 +15,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EnvironmentDemo", "Environm
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnvironmentDotNetDemo", "EnvironmentDotNetDemo\EnvironmentDotNetDemo.csproj", "{77118EF6-3ED0-4EA8-8A66-FF9F81AE876A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerilogDemo", "SerilogDemo\SerilogDemo.csproj", "{F7CA8812-3515-4C4C-AD19-A3E8B0E0F3C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{77118EF6-3ED0-4EA8-8A66-FF9F81AE876A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77118EF6-3ED0-4EA8-8A66-FF9F81AE876A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77118EF6-3ED0-4EA8-8A66-FF9F81AE876A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7CA8812-3515-4C4C-AD19-A3E8B0E0F3C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7CA8812-3515-4C4C-AD19-A3E8B0E0F3C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7CA8812-3515-4C4C-AD19-A3E8B0E0F3C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7CA8812-3515-4C4C-AD19-A3E8B0E0F3C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -41,6 +47,7 @@ Global
 		{E3BF71C5-F22C-4340-966C-9BE834017CB1} = {2513809A-14D9-4E81-92BB-6E8B5F0BA003}
 		{10B435CD-D4DD-4CC2-8CEC-67E86D6D3085} = {49E374D3-0145-4CFA-8C54-CDC63F76055F}
 		{77118EF6-3ED0-4EA8-8A66-FF9F81AE876A} = {92F59888-46AD-4846-B47A-674D6B538106}
+		{F7CA8812-3515-4C4C-AD19-A3E8B0E0F3C0} = {2513809A-14D9-4E81-92BB-6E8B5F0BA003}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8291BCF9-5EE7-45A1-8AD7-4F50718D4B53}

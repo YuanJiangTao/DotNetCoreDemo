@@ -1,0 +1,35 @@
+[15:16:35 641 INF]Worker running at: "2021-01-26T15:16:35.6323578+08:00"
+[15:16:35 699 INF]Application started. Press Ctrl+C to shut down.
+[15:16:35 700 INF]Hosting environment: Development
+[15:16:35 703 INF]Content root path: G:\不错的demo\DotNetCoreDemo\WorkerServiceDemo
+[15:16:36 718 INF]Worker running at: "2021-01-26T15:16:36.7186591+08:00"
+[15:16:37 728 INF]Worker running at: "2021-01-26T15:16:37.7277639+08:00"
+[15:16:38 742 INF]Worker running at: "2021-01-26T15:16:38.7425893+08:00"
+[15:16:39 768 INF]Worker running at: "2021-01-26T15:16:39.7677461+08:00"
+[15:16:39 906 INF]Application is shutting down...
+[15:30:14 148 INF]Worker running at: "2021-01-26T15:30:14.1375400+08:00"
+[15:30:14 195 INF]Application started. Press Ctrl+C to shut down.
+[15:30:14 198 INF]Hosting environment: Development
+[15:30:14 200 INF]Content root path: G:\不错的demo\DotNetCoreDemo\WorkerServiceDemo
+[15:30:15 208 INF]Worker running at: "2021-01-26T15:30:15.2076708+08:00"
+[15:30:16 227 INF]Worker running at: "2021-01-26T15:30:16.2267101+08:00"
+[15:30:17 242 INF]Worker running at: "2021-01-26T15:30:17.2385229+08:00"
+[15:30:18 256 INF]Worker running at: "2021-01-26T15:30:18.2563530+08:00"
+[15:30:19 285 INF]Worker running at: "2021-01-26T15:30:19.2853308+08:00"
+[15:30:20 298 INF]Worker running at: "2021-01-26T15:30:20.2983098+08:00"
+[15:30:21 313 INF]Worker running at: "2021-01-26T15:30:21.3136515+08:00"
+[15:30:22 333 INF]Worker running at: "2021-01-26T15:30:22.3332280+08:00"
+[15:30:23 337 INF]Worker running at: "2021-01-26T15:30:23.3371387+08:00"
+[15:30:24 343 INF]Worker running at: "2021-01-26T15:30:24.3438187+08:00"
+[15:30:25 393 INF]Worker running at: "2021-01-26T15:30:25.3929257+08:00"
+[15:30:26 407 INF]Worker running at: "2021-01-26T15:30:26.4069376+08:00"
+[15:30:27 418 INF]Worker running at: "2021-01-26T15:30:27.4188731+08:00"
+[15:30:28 421 INF]Worker running at: "2021-01-26T15:30:28.4209876+08:00"
+[15:30:29 443 INF]Worker running at: "2021-01-26T15:30:29.4428761+08:00"
+[15:30:30 455 INF]Worker running at: "2021-01-26T15:30:30.4548793+08:00"
+[15:30:31 471 INF]Worker running at: "2021-01-26T15:30:31.4709320+08:00"
+[15:30:32 485 INF]Worker running at: "2021-01-26T15:30:32.4850479+08:00"
+[15:30:33 495 INF]Worker running at: "2021-01-26T15:30:33.4951347+08:00"
+[15:30:34 503 INF]Worker running at: "2021-01-26T15:30:34.5038759+08:00"
+[15:30:35 505 INF]Worker running at: "2021-01-26T15:30:35.5050275+08:00"
+[15:30:35 842 INF]Application is shutting down...
