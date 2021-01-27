@@ -16,6 +16,9 @@ namespace WorkerServiceDemo
     {
         public static void Main(string[] args)
         {
+            var pathToExe = Process.GetCurrentProcess().MainModule.FileName;
+            var pathToContentRoot = Path.GetDirectoryName(pathToExe);
+            Directory.SetCurrentDirectory(pathToContentRoot);
             CreateHostBuilder(args).Build().Run();
         }
         private static string GetBasePath()
@@ -33,7 +36,7 @@ namespace WorkerServiceDemo
             Host.CreateDefaultBuilder(args)
             .ConfigureAppConfiguration((context, configuration) =>
             {
-                context.HostingEnvironment.ContentRootPath = AppContext.BaseDirectory;
+                //context.HostingEnvironment.ContentRootPath = AppContext.BaseDirectory;
                 configuration
                 .SetFileLoadExceptionHandler(c =>
                 {
