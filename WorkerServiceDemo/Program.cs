@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Microsoft.Extensions.PlatformAbstractions;
 using Serilog;
 
 namespace WorkerServiceDemo
@@ -32,17 +33,22 @@ namespace WorkerServiceDemo
             Host.CreateDefaultBuilder(args)
             .ConfigureAppConfiguration((context, configuration) =>
             {
-                configuration.SetBasePath(GetBasePath())
+                context.HostingEnvironment.ContentRootPath = AppContext.BaseDirectory;
+                configuration
                 .SetFileLoadExceptionHandler(c =>
                 {
                     Log.Warning(c.Exception, "FileLoadException");
                 })
-                .AddJsonFile("appsettings.json").
-                AddJsonFile($"appsettings.{context.HostingEnvironment.EnvironmentName}.json", true, true)
+                .AddJsonFile("appsettings.json")
+                //.AddJsonFile("serilogsetting.json")
+                .AddJsonFile($"appsettings.{context.HostingEnvironment.EnvironmentName}.json", true, true)
                 .AddEnvironmentVariables();
 
             })
-            .UseWindowsService()
+            .UseWindowsService(options=>
+            {
+
+            })
             .UseSerilog((hostBuilderContext, loggingBuilder) =>
             {
                 loggingBuilder.ReadFrom.Configuration(hostBuilderContext.Configuration);

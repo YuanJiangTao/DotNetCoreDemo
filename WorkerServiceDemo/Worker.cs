@@ -26,7 +26,7 @@ namespace WorkerServiceDemo
             while (!stoppingToken.IsCancellationRequested)
             {
                 _logger.LogInformation("Worker running at: {time}", DateTimeOffset.Now);
-                _logger.LogInformation($"Directory:{Directory.GetCurrentDirectory()}");
+                _logger.LogInformation($"Directory:{AppContext.BaseDirectory}");
                 _logger.LogInformation($"Options:{_options?.Value.ToString()}");
                 await Task.Delay(2000, stoppingToken);
             }

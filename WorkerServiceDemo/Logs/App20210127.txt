@@ -1,0 +1,58 @@
+[13:52:45 919 INF]Worker running at: "2021-01-27T13:52:45.9051299+08:00"
+[13:52:45 957 INF]Directory:G:\不错的demo\DotNetCoreDemo\WorkerServiceDemo
+[13:52:47 097 INF]Options:Name:Test;Age:15
+[13:52:47 103 INF]Application started. Press Ctrl+C to shut down.
+[13:52:47 104 INF]Hosting environment: Development
+[13:52:47 138 INF]Content root path: G:\不错的demo\DotNetCoreDemo\WorkerServiceDemo
+[13:52:49 104 INF]Worker running at: "2021-01-27T13:52:49.1046062+08:00"
+[13:52:49 107 INF]Directory:G:\不错的demo\DotNetCoreDemo\WorkerServiceDemo
+[13:52:49 108 INF]Options:Name:Test;Age:15
+[13:52:51 114 INF]Worker running at: "2021-01-27T13:52:51.1142139+08:00"
+[13:52:51 116 INF]Directory:G:\不错的demo\DotNetCoreDemo\WorkerServiceDemo
+[13:52:51 119 INF]Options:Name:Test;Age:15
+[13:52:53 127 INF]Worker running at: "2021-01-27T13:52:53.1270776+08:00"
+[13:52:53 129 INF]Directory:G:\不错的demo\DotNetCoreDemo\WorkerServiceDemo
+[13:52:53 131 INF]Options:Name:Test;Age:15
+[13:52:55 142 INF]Worker running at: "2021-01-27T13:52:55.1425215+08:00"
+[13:52:55 147 INF]Directory:G:\不错的demo\DotNetCoreDemo\WorkerServiceDemo
+[13:52:55 157 INF]Options:Name:Test;Age:15
+[13:52:57 177 INF]Worker running at: "2021-01-27T13:52:57.1769336+08:00"
+[13:52:57 179 INF]Directory:G:\不错的demo\DotNetCoreDemo\WorkerServiceDemo
+[13:52:57 182 INF]Options:Name:Test;Age:15
+[13:52:59 191 INF]Worker running at: "2021-01-27T13:52:59.1914457+08:00"
+[13:52:59 193 INF]Directory:G:\不错的demo\DotNetCoreDemo\WorkerServiceDemo
+[13:52:59 195 INF]Options:Name:Test;Age:15
+[13:53:01 205 INF]Worker running at: "2021-01-27T13:53:01.2056131+08:00"
+[13:53:01 207 INF]Directory:G:\不错的demo\DotNetCoreDemo\WorkerServiceDemo
+[13:53:01 210 INF]Options:Name:Test;Age:15
+[13:53:03 211 INF]Worker running at: "2021-01-27T13:53:03.2114857+08:00"
+[13:53:03 214 INF]Directory:G:\不错的demo\DotNetCoreDemo\WorkerServiceDemo
+[13:53:03 215 INF]Options:Name:Test;Age:15
+[13:53:05 219 INF]Worker running at: "2021-01-27T13:53:05.2197126+08:00"
+[13:53:05 222 INF]Directory:G:\不错的demo\DotNetCoreDemo\WorkerServiceDemo
+[13:53:05 224 INF]Options:Name:Test;Age:15
+[13:53:07 240 INF]Worker running at: "2021-01-27T13:53:07.2403406+08:00"
+[13:53:07 243 INF]Directory:G:\不错的demo\DotNetCoreDemo\WorkerServiceDemo
+[13:53:07 245 INF]Options:Name:Test;Age:15
+[13:53:09 256 INF]Worker running at: "2021-01-27T13:53:09.2564910+08:00"
+[13:53:09 258 INF]Directory:G:\不错的demo\DotNetCoreDemo\WorkerServiceDemo
+[13:53:09 260 INF]Options:Name:Test;Age:15
+[13:53:11 269 INF]Worker running at: "2021-01-27T13:53:11.2699175+08:00"
+[13:53:11 271 INF]Directory:G:\不错的demo\DotNetCoreDemo\WorkerServiceDemo
+[13:53:11 272 INF]Options:Name:Test;Age:15
+[13:53:13 281 INF]Worker running at: "2021-01-27T13:53:13.2816666+08:00"
+[13:53:13 287 INF]Directory:G:\不错的demo\DotNetCoreDemo\WorkerServiceDemo
+[13:53:13 290 INF]Options:Name:Test;Age:15
+[13:53:15 297 INF]Worker running at: "2021-01-27T13:53:15.2972846+08:00"
+[13:53:15 298 INF]Directory:G:\不错的demo\DotNetCoreDemo\WorkerServiceDemo
+[13:53:15 300 INF]Options:Name:Test;Age:15
+[13:53:17 313 INF]Worker running at: "2021-01-27T13:53:17.3132595+08:00"
+[13:53:17 316 INF]Directory:G:\不错的demo\DotNetCoreDemo\WorkerServiceDemo
+[13:53:17 319 INF]Options:Name:Test;Age:15
+[13:53:19 328 INF]Worker running at: "2021-01-27T13:53:19.3284775+08:00"
+[13:53:19 332 INF]Directory:G:\不错的demo\DotNetCoreDemo\WorkerServiceDemo
+[13:53:19 333 INF]Options:Name:Test;Age:15
+[13:53:21 343 INF]Worker running at: "2021-01-27T13:53:21.3434295+08:00"
+[13:53:21 348 INF]Directory:G:\不错的demo\DotNetCoreDemo\WorkerServiceDemo
+[13:53:21 349 INF]Options:Name:Test;Age:15
+[13:53:22 223 INF]Application is shutting down...

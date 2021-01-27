@@ -19,7 +19,7 @@
         "configure:File": {
           "Name": "File",
           "Args": {
-            "PathFormat": "Logs/App.txt",
+            "Path": "Logs/App.txt",
             "RollingInterval": "Day",
             "Shared": true, //¹²Ïí´ò¿ª
             "FileSizeLimitBytes": 209715200,
